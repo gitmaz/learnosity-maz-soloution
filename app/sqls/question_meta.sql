@@ -1,0 +1,13 @@
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (3, '1', '1', 1, 1, 2, 1);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (4, '1', '1', 3, 3, 5, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (5, '1', '1', 4, 5, 7, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (6, '1', '1', 5, 7, null, null);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (7, '1', '1', 2, 2, 3, 1);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (17, '1', '2', 1, 1, 3, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (18, '1', '2', 2, 3, 5, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (19, '1', '2', 3, 5, 7, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (20, '1', '2', 4, 7, 9, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (21, '1', '2', 5, 9, 11, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (22, '2', '1', 1, 1, 3, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (23, '2', '1', 2, 3, 5, 2);
+INSERT INTO question_meta (id, activity_id, user_id, question_nr, opened_at, closed_at, duration) VALUES (24, '2', '2', 1, 1, 3, 2);
